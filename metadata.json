@@ -1,0 +1,6 @@
+{
+  "name": "تقویم پارسی 1405",
+  "description": "تقویم جامع خورشیدی ۱۴۰۵ با فال روزانه، نرخ لحظه‌ای طلا و ارز نوسان، ابزارهای کاربردی، یادآور و رویدادها",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
