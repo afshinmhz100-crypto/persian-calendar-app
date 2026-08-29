@@ -1,6 +1,6 @@
 {
-  "name": "تقویم پارسی 1405",
-  "description": "تقویم جامع خورشیدی ۱۴۰۵ با فال روزانه، نرخ لحظه‌ای طلا و ارز نوسان، ابزارهای کاربردی، یادآور و رویدادها",
+  "name": "Parmis",
+  "description": "تقویم جامع خورشیدی ۱۴۰۵، اوقات شرعی باد صبا، نوتیفیکیشن استاتوس‌بار، نرخ طلا و ارز، تبدیل تاریخ و ابزارها",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
